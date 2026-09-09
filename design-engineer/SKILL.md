@@ -11,12 +11,6 @@ Use this skill to turn rough or merely functional frontend work into a carefully
 
 ## Quick Start
 
-1. Inspect the project before proposing visuals:
-
-```bash
-python /path/to/design-engineer/scripts/design_audit.py <app-or-package-path>
-```
-
 2. Read `references/design-language.md` when the target is a docs site, product landing page, component library, studio app, dashboard, or technical OSS website.
 3. Read `references/implementation-patterns.md` when building a component library, adding reusable primitives, or mining existing source for package/component patterns.
 4. Read `references/interaction-language.md` before changing navigation, command palettes, tables, forms, copy actions, loading/empty/error states, dialogs, charts, or mobile flows.
